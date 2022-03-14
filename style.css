@@ -8,6 +8,7 @@
   margin-top: 20px;
   border: 10px solid #4d4d4d;
   margin-bottom: 10px;
+  justify-content: center;
 }
 
 div {
@@ -39,4 +40,9 @@ div {
   border: 5px solid;
   border-color: #8c8c8c #bab7a9 #bab7a9 #8c8c8c;
   box-sizing: border-box;
+}
+
+.container {
+  width: 500px;
+  align-content: center;
 }
